@@ -1,1 +1,1 @@
-no se hace el push de la carpeta archivos
+no hay opcion para hacer commit o push de la carpeta archivos (cuando esta vacia)
